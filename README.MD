@@ -4,4 +4,8 @@
  1. fork upstream repo in github
  2. clone from our (your) fork of the original 'upstream' repository down onto your own computer (local/private)
  3. Create new branch and make suggested changes in that branch (NOT IN MASTER)
- 
+ 4. make changes
+ 5. commit to new branch
+ 6. push to YOUR public repo
+ 7. go to the maintainer's github page and start a pull request
+ 8. as the maintainer, select the waiting pull request and work through the merge (to include merge conflicts)
